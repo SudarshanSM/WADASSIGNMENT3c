@@ -1,0 +1,9 @@
+git init: Initializes a new Git repository in the current directory.
+
+git clone <repository-url>: Creates a copy of a remote Git repository on your local machine.
+
+git add <file(s)>: Stages changes for the next commit. You can use git add . to stage all changes.
+
+git commit -m "Your commit message": Records staged changes in the repository with a descriptive message.
+
+git status: Shows the status of your working directory and staged changes.
